@@ -1,4 +1,4 @@
-## Description du projet 
+# Hugo Pereira & [Félix Liburski](https://github.com/felixlbr)
 
 ## Description du projet 
 <div align="justify">Ce projet est notre tout premier projet en C++. Il consiste à reproduire le jeu du démineur tout en l’adaptant aux attentes du sujet. Notre applicatif est développé en langage C++ et <strong>le code est en anglais.</strong></div>
