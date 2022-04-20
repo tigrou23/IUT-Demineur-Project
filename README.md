@@ -1,5 +1,7 @@
 # Hugo Pereira & [Félix Liburski](https://github.com/felixlbr)
 
+**IMPORTANT** : Ce projet est aucunement un projet personnel et a pour but éducatif - Projet pour Université Paris Cité. Ce dernier était à faire en binôme et il constitue notre deuxième projet de développement.
+
 ## Description du projet <a class="anchor" id="chapter1"></a>
 <div align="justify">Ce projet est notre tout premier projet en C++. Il consiste à reproduire le jeu du démineur tout en l’adaptant aux attentes du sujet. Notre applicatif est développé en langage C++ et <strong>le code est en anglais.</strong></div>
 
